@@ -16,3 +16,4 @@ Data structure and algorithm problem solution (100% performance)
 ## Lesson 4 Counting Elements</br>
 - [x] [PermCheck](https://github.com/Bansari711/Codility-Lessons/blob/master/PermCheck.java)
 - [x] [FrogRiverOne](https://github.com/Bansari711/Codility-Lessons/blob/master/FrogRiverOne.java)
+- [x] [MaxCounters](https://github.com/Bansari711/Codility-Lessons/blob/master/MaxCounters.java)
