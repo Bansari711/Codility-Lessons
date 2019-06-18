@@ -11,3 +11,4 @@ Data structure and algorithm problem solution (100% performance)
 ## Lesson 3 Time Complexity</br>
 - [x] [FrogJmp](https://github.com/Bansari711/Codility-Lessons/blob/master/FrogJump.java)
 - [x] [PermMissingElem](https://github.com/Bansari711/Codility-Lessons/blob/master/PermMissingElem.java)
+- [x] [TapeEquilibrium](https://github.com/Bansari711/Codility-Lessons/blob/master/TapeEquilibrium.java)
