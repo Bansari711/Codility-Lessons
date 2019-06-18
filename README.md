@@ -12,4 +12,7 @@ Data structure and algorithm problem solution (100% performance)
 - [x] [FrogJmp](https://github.com/Bansari711/Codility-Lessons/blob/master/FrogJump.java)
 - [x] [PermMissingElem](https://github.com/Bansari711/Codility-Lessons/blob/master/PermMissingElem.java)
 - [x] [TapeEquilibrium](https://github.com/Bansari711/Codility-Lessons/blob/master/TapeEquilibrium.java)
+
+## Lesson 4 Counting Elements</br>
 - [x] [PermCheck](https://github.com/Bansari711/Codility-Lessons/blob/master/PermCheck.java)
+- [x] [FrogRiverOne](https://github.com/Bansari711/Codility-Lessons/blob/master/FrogRiverOne.java)
