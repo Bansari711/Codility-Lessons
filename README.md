@@ -18,3 +18,6 @@ Data structure and algorithm problem solution (100% performance)
 - [x] [FrogRiverOne](https://github.com/Bansari711/Codility-Lessons/blob/master/FrogRiverOne.java)
 - [x] [MaxCounters](https://github.com/Bansari711/Codility-Lessons/blob/master/MaxCounters.java)
 - [x] [MissingInteger](https://github.com/Bansari711/Codility-Lessons/blob/master/MissingInteger.java)
+
+# Acknowledgements
+These problems are available on [Codility](https://www.codility.com) website.
