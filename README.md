@@ -19,5 +19,9 @@ Data structure and algorithm problem solution (100% performance)
 - [x] [MaxCounters](https://github.com/Bansari711/Codility-Lessons/blob/master/MaxCounters.java)
 - [x] [MissingInteger](https://github.com/Bansari711/Codility-Lessons/blob/master/MissingInteger.java)
 
+## Lesson 4 Counting Elements</br>
+- [x] [PassingCars](https://github.com/Bansari711/Codility-Lessons/blob/master/PassingCars.java)
+
+
 # Acknowledgements
 These problems are available on [Codility](https://www.codility.com) website.
