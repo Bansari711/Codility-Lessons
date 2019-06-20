@@ -21,7 +21,8 @@ Data structure and algorithm problem solution (100% performance)
 
 ## Lesson 4 Counting Elements</br>
 - [x] [PassingCars](https://github.com/Bansari711/Codility-Lessons/blob/master/PassingCars.java)
-- [x] [GenomicRangeQuery](https://github.com/Bansari711/Codility-Lessons/blob/master/GenomicRangeQuery.java)      
+- [x] [GenomicRangeQuery](https://github.com/Bansari711/Codility-Lessons/blob/master/GenomicRangeQuery.java)
+- [x] [MinAvgTwoSlice](https://github.com/Bansari711/Codility-Lessons/blob/master/MinAvgTwoSlice.java)
 
 
 # Acknowledgements
