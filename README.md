@@ -7,6 +7,9 @@ Data structure and algorithm problem solution (100% performance)
 - [x] [Solution](https://github.com/Bansari711/Codility-Lessons/blob/master/Niobium2019.java)</br>
 - **[Codility Award](https://app.codility.com/cert/view/certZ79KKC-S2SKGRK8AJRJKK65/)**
 
+## Zirconium 2019</br>
+- [x] [Solution](https://github.com/Bansari711/Codility-Lessons/blob/master/Zirconium2019.java)
+
 </br></br>
 
 ## Lessons:
