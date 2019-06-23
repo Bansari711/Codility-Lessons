@@ -1,5 +1,15 @@
-# Codility-Lessons
+# Codility
 Data structure and algorithm problem solution (100% performance)
+
+## Challenges:
+
+## Niobium 2019</br>
+- [x] [Solution](https://github.com/Bansari711/Codility-Lessons/blob/master/Niobium2019.java)</br>
+- **[Codility Award](https://app.codility.com/cert/view/certZ79KKC-S2SKGRK8AJRJKK65/)**
+
+</br></br>
+
+## Lessons:
 
 ## Lesson 1 Iterations</br>
 - [x] [Binary Gap](https://github.com/Bansari711/Codility-Lessons/blob/master/BinaryGap.java)
